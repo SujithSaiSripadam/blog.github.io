@@ -351,22 +351,26 @@ body ,html
 {
     animation-delay: 0s;
     width: 100px;
+    height:100px;
 }
 
-.jelly :nth-child(2)
+.jelly :nth-child(3)
 {
     animation-delay: 4s;
-    width: 200px;
+    width: 100px;
+     height:100px;
 }
-.jelly :nth-child(2)
+.jelly :nth-child(4)
 {
     animation-delay: 3s;
     width: 200px;
+     height:200px;
 }
-.jelly :nth-child(2)
+.jelly :nth-child(5)
 {
     animation-delay: 2s;
     width: 200px;
+     height:200px;
 }
 
 .bordertrans
