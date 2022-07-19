@@ -12,22 +12,22 @@ body ,html
 
 .image1
 {
-    background-image: url('../shuutle.gif');
+    background-image: url('shuutle.gif');
     min-height: 100%;
 }
 .image2
 {
-    background-image: url('../sea.webp');
+    background-image: url('sea.webp');
     min-height: 100%;
 }
 .image4
 {
-    background-image: url('../mobile-application-software-web-development-with-3d-shapes-bar-chart-infographic-blue-background-3d-vector-illustration_145666-1494.webp');
+    background-image: url('mobile-application-software-web-development-with-3d-shapes-bar-chart-infographic-blue-background-3d-vector-illustration_145666-1494.webp');
     min-height: 100%;
 }
 .image3
 {
-    background-image: url('../bye-bye-pokemon.gif');
+    background-image: url('bye-bye-pokemon.gif');
     min-height: 100%;
 }
 
@@ -429,7 +429,7 @@ body ,html
    border-left: 30px;
     height: 200px;
     width: 220px;
-    background-image: url('../pika.jpg');
+    background-image: url('pika.jpg');
     padding: 0% 0% 0% 0%;
     border: 10px;
     margin-left: 43%;
@@ -439,7 +439,7 @@ body ,html
 
 .pika:hover
 {
-    background-image: url('../piki.jpg');
+    background-image: url('piki.jpg');
 }
 
 .intro
